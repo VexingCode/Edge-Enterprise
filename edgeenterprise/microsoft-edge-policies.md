@@ -639,7 +639,7 @@ These tables list all of the browser-related group policies available in this re
 |[WebComponentsV0Enabled](#webcomponentsv0enabled)|Re-enable Web Components v0 API until M84 (obsolete)|
 |[WebDriverOverridesIncompatiblePolicies](#webdriveroverridesincompatiblepolicies)|Allow WebDriver to Override Incompatible Policies (obsolete)|
 |[WebRtcAllowLegacyTLSProtocols](#webrtcallowlegacytlsprotocols)|Allow legacy TLS/DTLS downgrade in WebRTC (deprecated)|
-|[WebRtcLocalIpsAllowedUrls](#webrtclocalipsallowedurls)|Manage exposure of local IP addressess by WebRTC|
+|[WebRtcLocalIpsAllowedUrls](#webrtclocalipsallowedurls)|Manage exposure of local IP addresses by WebRTC|
 |[WebRtcLocalhostIpHandling](#webrtclocalhostiphandling)|Restrict exposure of local IP address by WebRTC|
 |[WebRtcRespectOsRoutingTableEnabled](#webrtcrespectosroutingtableenabled)|Enable support for Windows OS routing table rules when making peer to peer connections via WebRTC|
 |[WebRtcUdpPortRange](#webrtcudpportrange)|Restrict the range of local UDP ports used by WebRTC|
@@ -34169,7 +34169,7 @@ of Microsoft Edge.
 
   ### WebRtcLocalIpsAllowedUrls
 
-  #### Manage exposure of local IP addressess by WebRTC
+  #### Manage exposure of local IP addresses by WebRTC
 
   
   
@@ -34204,7 +34204,7 @@ Please note that this policy weakens the protection of local IP addresses that m
   ##### Group Policy (ADMX) info
 
   - GP unique name: WebRtcLocalIpsAllowedUrls
-  - GP name: Manage exposure of local IP addressess by WebRTC
+  - GP name: Manage exposure of local IP addresses by WebRTC
   - GP path (Mandatory): Administrative Templates/Microsoft Edge/
   - GP path (Recommended): N/A
   - GP ADMX file name: MSEdge.admx
